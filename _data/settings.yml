@@ -1,6 +1,6 @@
 audit_header: false
-title: "-- MARKET --'s Best Real Estate Training"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: "Palmdale's Best Real Estate Training"
+description: Ron Hier, a top Real Estate Agent in Palmdale, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -10,26 +10,28 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name:
+  name: Ron Hier
   title:
   license_number:
   about_markdown: |
+    A Better Way to Buy and Sell Real Estate
 
-  market:
-  brand:
+    This is a one-stop real estate website for all your home buying and selling needs in Palmdale, CA.
+  market: Palmdale
+  brand: The HIER Advantage
   brokerage:
-  address:
-  phone:
+  address: 1008 W. Ave. M-14 Unit A Palmdale, CA 93551
+  phone: 661-406-1562
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: ronhier@thehieradvantage.com
+  url: http://www.thehieradvantage.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how -- CLIENT BRAND -- can take your business to new heights."
+    CTA_text: "Let's talk about how The HIER Advantage can take your business to new heights."
     CTA_link_text: "Free Strategy Session"
     CTA_url: /contact/
 
@@ -67,25 +69,25 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Palmdale Real Estate Podcast with Ron Hier'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Palmdale Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HIER Advantage - your professional Palmdale Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palmdale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Ron Hier'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Palmdale Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#e03434'
+  theme_color: '#21211f'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
