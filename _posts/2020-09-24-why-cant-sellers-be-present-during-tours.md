@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Can’t Sellers Be Present During Tours?
-date:
+date: 2020-09-24 15:12:05
 tags:
 excerpt: Sellers should never be home when a buyer comes to tour it. Here’s why.
 enclosure: >-
