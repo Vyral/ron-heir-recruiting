@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/61C-4EcpRyU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>These four tips will help your buyer come out on top in a bidding war.</em></p>
+
 Recently, one of my agents came to me and said, “Ron, how do I get my offer accepted? My buyers keep getting beaten out.” If you’re asking yourself the same thing, there are four main things you can do to elevate your buyer’s offer to the top of sellers’ minds.&nbsp;
 
 First, **make sure your buyer is pre-approved by a local lender.** When there’s a local lender involved, chances are good that local agents know them and have built trust with them.&nbsp;
