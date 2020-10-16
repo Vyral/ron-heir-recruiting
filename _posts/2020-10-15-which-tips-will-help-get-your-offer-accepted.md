@@ -41,7 +41,7 @@ Other ideas for this tip include:
 
 You have to look at the seller’s bottom line because that’s what they’re looking at when they have multiple offers: who’s the strongest, won’t cost them any money, can close on their terms, etc.&nbsp;
 
-Lastly, **find out what’s most important to the seller.** It may not be the highest-priced offer. They may need to do a rent-back, or establish a 60-day escrow period. The only way to find out is to call their agent and find out what they want most.&nbsp;
+Lastly, **find out what’s most important to the seller.** It may not be the highest-priced offer. They may need to do a rent-back or establish a 60-day escrow period. The only way to find out is to call their agent and find out what they want most.&nbsp;
 
 If you try these tips and still have a hard time getting your offer accepted, don’t hesitate to reach out to me. I’d love to speak with you.&nbsp;
 
