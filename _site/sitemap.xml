@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/which-tips-will-help-get-your-offer-accepted.html</loc>
+<lastmod>2020-10-15T15:20:06-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-do-i-handle-my-request-for-repairs.html</loc>
+<lastmod>2020-11-04T09:25:47-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
