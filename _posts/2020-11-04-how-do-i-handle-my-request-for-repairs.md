@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-hier-dont-let-request-for-repairs-kill-your-home-sale-yt.jpg
-youtube_code: 'https://youtu.be/cKquy4aT_ew'
+youtube_code: 'https://youtu.be/H-D7Xr85C-M'
 ---
 
 {% include youtube.html %}
