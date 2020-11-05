@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Do I Handle My Request for Repairs?
-date: 2020-11-04 15:25:47
+title: How to Handle Requests for Repairs
+date: 2020-11-04 15:25:00
 tags:
 excerpt: Here’s how to make a request for repairs without ticking off the seller.
 enclosure: >-
@@ -12,13 +12,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ron-hier-dont-let-request-for-repairs-kill-your-home-sale-yt.jpg
+youtube_alternate_image: /uploads/ron-hier-dont-let-request-for-repairs-kill-your-home-sale-yt2.jpg
 youtube_code: 'https://youtu.be/H-D7Xr85C-M'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how to make a request for repairs without ticking off the seller.</em></p>
+*Here’s how to make a request for repairs without ticking off the seller.*
 
 Recently, one of my agents came to me with some issues regarding the request for repairs on a property that had a home inspection done. Of course, the inspector was just doing their job—combing through the home and calling out issues concerning maintenance and possible code violations. The buyer then wanted the agent to put together a list of repairs, but that is a tad more nuanced than you might think; if the buyer gives the seller a laundry list of repairs to handle, the seller could cancel. Though sellers rarely do, they always have the power to back out, so we agents must find a tactful way to make clear the buyer’s requests and still preserve the deal.&nbsp;
 
