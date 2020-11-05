@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/H-D7Xr85C-M'
 
 <p style="text-align: center;"><em>Here’s how to make a request for repairs without ticking off the seller.</em></p>
 
-Recently, one of my agents came to me with some issues regarding the request for repairs on a property that had a home inspection done. Of course, the inspector was just doing their job—combing through the home and calling out issues concerning maintenance and possible code violations. The buyer then wanted the agent to put together a list of repairs, but that is a tad more nuanced than you might think; if the buyer gives the seller a laundry list of repairs to handle, the seller could cancel. Though sellers rarely do, they always have the power to back out, so we agents must find a tactful way to make clear the buyer’s requests and still preserve the deal.&nbsp;
+Recently, one of my agents came to me with some issues regarding the request for repairs on a property that had a home inspection done. Of course, the inspector was just doing their job—combing through the home and calling out issues concerning maintenance and possible code violations. The buyer then wanted the agent to put together a list of repairs, but that is a tad more nuanced than you might think; if the buyer gives the seller a laundry list of repairs to handle, the seller could cancel. Though sellers rarely do, they always have the power to back out, so we agents must find a tactful way to make clear the buyer’s requests and still preserve the deal. &nbsp;
 
 **When given a list of repairs, a seller always has five options:&nbsp;**
 
