@@ -27,8 +27,8 @@ Recently, one of my agents came to me with some issues regarding the request for
 * Do some of them
 * Do all of them&nbsp;
 * Do none of them
-* Drop a credit in lieu of repairs
-* Make partial repairs and drop partial credit&nbsp;
+* Draw a credit in lieu of repairs
+* Make partial repairs and draw partial credit&nbsp;
 
 {% include pullquote.html %}
 
