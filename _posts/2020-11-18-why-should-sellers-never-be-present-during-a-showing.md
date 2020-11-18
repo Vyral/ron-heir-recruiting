@@ -16,6 +16,8 @@ youtube_code: 'https://youtu.be/vzVmZHD9NUw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are four reasons why sellers should never be home during a showing.</em></p>
+
 Recently, I had an agent reach out to me and say, “Ron, my home seller wants to be home during showings. What should I do?” I told them that they shouldn't want them home during that time. Specifically, there are four reasons why a home seller should never be in their home when it’s being shown to a buyer and their agent:
 
 **1\. Clients need to be kept safe from COVID-19.** In this day and age, they may not want to be exposed to people they don’t know. With all the video and photography we have available these days, buyers will likely know what a home looks like before they set foot in it. You could require that all offers be made subject to a visual home inspection, but that would eliminate a bunch of buyers because the majority of them prefer to see a home in person before they make an offer.&nbsp;
