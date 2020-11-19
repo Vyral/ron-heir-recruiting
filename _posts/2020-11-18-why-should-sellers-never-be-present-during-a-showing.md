@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/vzVmZHD9NUw'
 
 <p style="text-align: center;"><em>There are four reasons why sellers should never be home during a showing.</em></p>
 
-Recently, I had an agent reach out to me and say, “Ron, my home seller wants to be home during showings. What should I do?” I told them that they shouldn't want them home during that time. Specifically, there are four reasons why a home seller should never be in their home when it’s being shown to a buyer and their agent:
+Recently, I had an agent reach out to me and say, “Ron, my home seller wants to be home during showings. What should I do?” I told them that they shouldn’t want to be home during that time. Specifically, there are four reasons why a home seller should never be in their home when it’s being shown to a buyer and their agent:
 
 **1\. Clients need to be kept safe from COVID-19.** In this day and age, they may not want to be exposed to people they don’t know. With all the video and photography we have available these days, buyers will likely know what a home looks like before they set foot in it. You could require that all offers be made subject to a visual home inspection, but that would eliminate a bunch of buyers because the majority of them prefer to see a home in person before they make an offer.&nbsp;
 
@@ -32,7 +32,7 @@ Recently, I had an agent reach out to me and say, “Ron, my home seller wants t
 
 *Buyer: “That’s nice flooring—how long ago did you have it done?”<br>Seller: “Thank you very much\! We had it done last year.”<br>Buyer: “How soon do you plan on moving?”<br>Seller: “As soon as I get an offer.”*
 
-The moment that last line gets spoken, your client gives away their negotiating power. Afterward, you can be sure that the buyer and their agent leave the house assuming the seller will take less because of how motivated they are to sell. You don’t want that.&nbsp;
+The moment that the last line is spoken, your client gives away their negotiating power. Afterward, you can be sure that the buyer and their agent leave the house assuming the seller will take less because of how motivated they are to sell. You don’t want that.&nbsp;
 
 Buyers can be picky, and that’s okay, but if the seller is present during a showing and overhears the buyer singling out things they don’t like about the house or aspects they would change if they bought it, it can hurt their feelings. This, in turn, can make them hostile toward that buyer and result in a missed opportunity.&nbsp;
 
