@@ -89,9 +89,66 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 		
-		<header id="hero">
-<div class="hero-img" style="background-image: url(/img/background.jpg); background-color: #999">
+		<header class="hero">
+    <br>
+    <div id="myCarousel" class="carousel slide">
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="hero item active"><img src="/img/hero1.jpg"></div>
+        <div class="hero item"><img src="/img/hero2.jpg"></div>
+        <div class="hero item"><img src="/img/hero3.jpg"></div>
+        <div class="hero item"><img src="/img/hero4.jpg"></div>
+        <div class="hero item"><img src="/img/hero5.jpg"></div>
+      </div>
+    </div>
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
 </header>
+<script>
+$(document).ready(function(){
+  // Activate Carousel
+  $("#myCarousel").carousel({interval: 4000, wrap: true});
+
+  // Enable Carousel Indicators
+  $(".item1").click(function(){
+    $("#myCarousel").carousel(0);
+  });
+  $(".item2").click(function(){
+    $("#myCarousel").carousel(1);
+  });
+  $(".item3").click(function(){
+    $("#myCarousel").carousel(2);
+  });
+  $(".item4").click(function(){
+    $("#myCarousel").carousel(3);
+  });
+  $(".item5").click(function(){
+    $("#myCarousel").carousel(4);
+  });
+});
+
+// Enable Carousel Indicators
+$(".item").click(function(){
+    $("#myCarousel").carousel(1);
+});
+
+// Enable Carousel Controls
+$(".left").click(function(){
+    $("#myCarousel").carousel("prev");
+});
+</script>
 
 		<div class="container-fluid">
 			<div class="row">
@@ -178,7 +235,39 @@
       
 			<div class="row content-container">
 				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/how-do-i-handle-my-request-for-repairs.html">How Do I Handle My Request for Repairs?</a></h2>
+					<h2 class="post-overview-title"><a class="post-link" href="/why-should-sellers-never-be-present-during-a-showing.html">Why Should Sellers Never Be Present During a Showing?</a></h2>
+					<!-- <span class="post-meta">
+						Nov 18, 2020
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/why-should-sellers-never-be-present-during-a-showing.html">
+	            
+								
+	            		<img src="/uploads/ron-hier-home-sellers-should-not-be-home-when-selling-yt.jpg" alt="Why Should Sellers Never Be Present During a Showing?" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>There are four reasons why sellers should never be home during a showing.<p>
+						<p class="readlink"><a href="/why-should-sellers-never-be-present-during-a-showing.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/how-to-handle-requests-for-repairs.html">How to Handle Requests for Repairs</a></h2>
 					<!-- <span class="post-meta">
 						Nov 4, 2020
 					</span> -->
@@ -191,10 +280,10 @@
           <div class="post-excerpts">
 
 
-						<a href="/how-do-i-handle-my-request-for-repairs.html">
+						<a href="/how-to-handle-requests-for-repairs.html">
 	            
 								
-	            		<img src="/uploads/ron-hier-dont-let-request-for-repairs-kill-your-home-sale-yt.jpg" alt="How Do I Handle My Request for Repairs?" class="post-image"/>
+	            		<img src="/uploads/ron-hier-dont-let-request-for-repairs-kill-your-home-sale-yt2.jpg" alt="How to Handle Requests for Repairs" class="post-image"/>
 								
 	            
 	          </a>
@@ -202,7 +291,7 @@
         </div>
 				<div class="col-lg-6">
 					<p class='excerpt'>Here’s how to make a request for repairs without ticking off the seller.<p>
-						<p class="readlink"><a href="/how-do-i-handle-my-request-for-repairs.html" class="readmore">Read More</a></p>
+						<p class="readlink"><a href="/how-to-handle-requests-for-repairs.html" class="readmore">Read More</a></p>
 				</div>
       </li>
 		</ul>

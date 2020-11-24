@@ -123,9 +123,66 @@
 </div>
 </nav>
 
-		<header id="hero">
-<div class="hero-img" style="background-image: url(/img/background.jpg); background-color: #999">
+		<header class="hero">
+    <br>
+    <div id="myCarousel" class="carousel slide">
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="hero item active"><img src="/img/hero1.jpg"></div>
+        <div class="hero item"><img src="/img/hero2.jpg"></div>
+        <div class="hero item"><img src="/img/hero3.jpg"></div>
+        <div class="hero item"><img src="/img/hero4.jpg"></div>
+        <div class="hero item"><img src="/img/hero5.jpg"></div>
+      </div>
+    </div>
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
 </header>
+<script>
+$(document).ready(function(){
+  // Activate Carousel
+  $("#myCarousel").carousel({interval: 4000, wrap: true});
+
+  // Enable Carousel Indicators
+  $(".item1").click(function(){
+    $("#myCarousel").carousel(0);
+  });
+  $(".item2").click(function(){
+    $("#myCarousel").carousel(1);
+  });
+  $(".item3").click(function(){
+    $("#myCarousel").carousel(2);
+  });
+  $(".item4").click(function(){
+    $("#myCarousel").carousel(3);
+  });
+  $(".item5").click(function(){
+    $("#myCarousel").carousel(4);
+  });
+});
+
+// Enable Carousel Indicators
+$(".item").click(function(){
+    $("#myCarousel").carousel(1);
+});
+
+// Enable Carousel Controls
+$(".left").click(function(){
+    $("#myCarousel").carousel("prev");
+});
+</script>
 
 
   	<div class="container-fluid">
@@ -171,12 +228,21 @@
 <script>
   window.store = {
     
-      "how-do-i-handle-my-request-for-repairs-html": {
-        "title": "How Do I Handle My Request for Repairs?",
+      "why-should-sellers-never-be-present-during-a-showing-html": {
+        "title": "Why Should Sellers Never Be Present During a Showing?",
         "author": "",
         "category": "",
-        "content": "Here’s how to make a request for repairs without ticking off the seller.Recently, one of my agents came to me with some issues regarding the request for repairs on a property that had a home inspection done. Of course, the inspector was just doing their job—combing through the home and calling out issues with regard to maintenance and possible code violations. The buyer then wanted the agent to put together a list of repairs, but that is a tad more nuanced than you might think; if the buyer gives the seller a laundry list of repairs to handle, the seller could cancel. Though sellers rarely do, they always have the power to back out, so we agents must find a tactful way to make clear the buyer’s requests that preserves the deal. When given a list of repairs, a seller always has five options:   Do some of them  Do all of them   Do none of them  Drop a credit in lieu of repairs  Make partial repairs and drop partial credit. “Addressing repairs up front in your purchase agreement can save you a ton of grief!”As a buyer, it’s best to address the issue of repairs  in advance when you write your offer. In the purchase agreement, the buyer can proactively:   Limit the dollar amount in the request for repairs (e.g., “any and all repairs not to exceed $500”)   State that all inspections will be used for informational purposes only—nothing will be asked of the seller   Remove the inspection contingencies altogether (Warning: To justify this kind of risk, the house would have to appear to be in excellent shape)  While each strategy has advantages and disadvantages, all are ways to get your offer accepted without killing the transaction in the inspection phase. Negotiations can be a little tricky, but what the buyer usually wants is for the seller to fix as much as possible without getting ticked off. As a buyer, you’re already in a tight market, and half the battle was getting your offer accepted; the last thing you want to do is irritate the seller to the point that they withdraw from the deal, leaving you back where you started—a low-inventory, high-competition jungle floor. If you find that the home needs significantly more work than you thought it did, it may just be best to walk away from it. Thankfully, though, you’ll almost always be able to work out issues with the seller if you have the right approach. Remember: Addressing repairs up front in your purchase agreement can save you a ton of grief! Every case is unique; this information covers most of what comes up in routine home inspections, but not all. If you have questions on this or any other real estate topic, please reach out by phone or email. I’m always more than happy to have an in-depth chat with curious homeowners, sellers, and buyers.   ",
-        "url": "/how-do-i-handle-my-request-for-repairs.html"
+        "content": "There are four reasons why sellers should never be home during a showing.Recently, I had an agent reach out to me and say, “Ron, my home seller wants to be home during showings. What should I do?” I told them that they shouldn’t want to be home during that time. Specifically, there are four reasons why a home seller should never be in their home when it’s being shown to a buyer and their agent:1. Clients need to be kept safe from COVID-19. In this day and age, they may not want to be exposed to people they don’t know. With all the video and photography we have available these days, buyers will likely know what a home looks like before they set foot in it. You could require that all offers be made subject to a visual home inspection, but that would eliminate a bunch of buyers because the majority of them prefer to see a home in person before they make an offer. 2. Buyers can feel pressured by the seller’s presence. They may feel like they can’t freely take a look around the home if the seller is wandering around or sitting in the living room watching TV. They may also have trouble visualizing themselves living in the home if someone else is doing just that right in front of their eyes. 3. Sellers tend to want to bring attention to their home’s upgrades and how they’ve enjoyed them. The problem is, buyers may not see these upgrades the same way. Furthermore, showcasing any upgrades may come off as pushy, and buyers may feel like the seller wants them to pay more for the home than it’s truly worth. “It’s best if your seller is not home when you show their property to a buyer.”4. Buyers (and their agents) ask questions. You don’t want them doing this to the seller directly or when you’re not present. The questions might begin innocently enough, but imagine this exchange for a second:Buyer: “That’s nice flooring—how long ago did you have it done?”Seller: “Thank you very much! We had it done last year.”Buyer: “How soon do you plan on moving?”Seller: “As soon as I get an offer.”The moment that the last line is spoken, your client gives away their negotiating power. Afterward, you can be sure that the buyer and their agent leave the house assuming the seller will take less because of how motivated they are to sell. You don’t want that. Buyers can be picky, and that’s okay, but if the seller is present during a showing and overhears the buyer singling out things they don’t like about the house or aspects they would change if they bought it, it can hurt their feelings. This, in turn, can make them hostile toward that buyer and result in a missed opportunity. Selling your personal residence is personal. That’s why we teach our seller clients to treat the transaction as a business transaction. What do business people do? They look at the bottom line, and the bottom line, in this case, is that it’s best if your seller is not home when you show their property to a buyer. If you have questions about this or any other real estate topic, don’t hesitate to reach out to me via phone or email. I’d love to help you.  ",
+        "url": "/why-should-sellers-never-be-present-during-a-showing.html"
+      }
+      ,
+    
+      "how-to-handle-requests-for-repairs-html": {
+        "title": "How to Handle Requests for Repairs",
+        "author": "",
+        "category": "",
+        "content": "Here’s how to make a request for repairs without ticking off the seller.Recently, one of my agents came to me with some issues regarding the request for repairs on a property that had a home inspection done. Of course, the inspector was just doing their job—combing through the home and calling out issues concerning maintenance and possible code violations. The buyer then wanted the agent to put together a list of repairs, but that is a tad more nuanced than you might think; if the buyer gives the seller a laundry list of repairs to handle, the seller could cancel. Though sellers rarely do, they always have the power to back out, so we agents must find a tactful way to make clear the buyer’s requests and still preserve the deal. When given a list of repairs, a seller always has five options:   Do some of them  Do all of them   Do none of them  Draw a credit in lieu of repairs  Make partial repairs and draw partial credit “Addressing repairs up front in your purchase agreement can save you a ton of grief!”For buyers, it’s best to address the issue of repairs  in advance when you write your offer. In the purchase agreement, the buyer can proactively:   Limit the dollar amount in the request for repairs (e.g., “any and all repairs not to exceed $500”)   State that all inspections will be used for informational purposes only—nothing will be asked of the seller   Remove the inspection contingencies altogether (Warning: To justify this kind of risk, the house would have to appear to be in excellent shape)  While each strategy has advantages and disadvantages, all are ways to get your offer accepted without killing the transaction in the inspection phase. Negotiations can be a little tricky, but what the buyer usually wants is for the seller to fix as much as possible without getting upset. Buyers are already in a tight market, and half the battle was getting their offer accepted. The last thing you want to do is irritate the seller to the point that they withdraw from the deal, leaving you back where you started—in a low-inventory, high-competition market. If you find that the home needs significantly more work than you thought it did, it may just be best to walk away from it. Thankfully, though, you’ll almost always be able to work out issues with the seller if you have the right approach. Remember: Addressing repairs up front in your purchase agreement can save you a ton of grief! Every case is unique; this information covers most of what comes up in routine home inspections, but not all. If you have questions on this or any other real estate topic, please reach out by phone or email. I’m always more than happy to have an in-depth chat with curious real estate agents about any matter.   ",
+        "url": "/how-to-handle-requests-for-repairs.html"
       }
       ,
     
