@@ -58,6 +58,7 @@
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#21211f">
 
+
 	<script src="https://www.google.com/recaptcha/api.js"></script>
 	<script>
 		function onSubmit(token) {
@@ -73,6 +74,8 @@
 		function onSubmit(token) {
 	  document.getElementById("contact-form").submit();
 	}
+
+
 	</script>
 
 </head>
@@ -147,7 +150,9 @@
 <script>
 $(document).ready(function(){
   // Activate Carousel
-  $("#myCarousel").carousel({interval: 1000, wrap: true});
+  $("#myCarousel").carousel({
+    interval: 1000, wrap: true
+  });
 
   // Enable Carousel Indicators
   $(".item1").click(function(){

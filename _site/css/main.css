@@ -1493,9 +1493,8 @@ label.tree-toggle {
   bottom: 250px; }
 
 .hero-container {
-  max-height: 400px;
   width: 100%;
-  max-width: 120rem;
+  max-width: 100%;
   margin: 0 auto; }
 
 .site-logo {
