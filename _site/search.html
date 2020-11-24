@@ -124,6 +124,7 @@
 </nav>
 
 		<header class="hero">
+  <div class="hero-container">
     <br>
     <div id="myCarousel" class="carousel slide">
       <ol class="carousel-indicators">
@@ -149,11 +150,12 @@
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
+  </div>
 </header>
 <script>
 $(document).ready(function(){
   // Activate Carousel
-  $("#myCarousel").carousel({interval: 4000, wrap: true});
+  $("#myCarousel").carousel({interval: 1000, wrap: true});
 
   // Enable Carousel Indicators
   $(".item1").click(function(){

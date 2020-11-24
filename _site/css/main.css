@@ -1472,8 +1472,7 @@ label.tree-toggle {
 
 .hero-img {
   background-position: center;
-  background-size: cover;
-  height: 400px; }
+  background-size: cover; }
 
 .hero {
   background-position: center;
@@ -1481,7 +1480,6 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  height: 600px;
   padding-top: 2rem; }
 
 .carousel-control.left {
@@ -1489,6 +1487,12 @@ label.tree-toggle {
 
 .carousel-control.right {
   background-image: none; }
+
+.hero-container {
+  max-height: 400px;
+  width: 100%;
+  max-width: 120rem;
+  margin: 0 auto; }
 
 .site-logo {
   width: 90%;
@@ -1510,8 +1514,8 @@ label.tree-toggle {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
-  #hero {
-    padding-top: 5.5rem; }
+  .hero-container {
+    max-height: 250px; }
 
   .site-logo {
     max-width: 20rem;
@@ -1520,6 +1524,9 @@ label.tree-toggle {
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 600px) {
+  .hero-container {
+    max-height: 250px; }
+
   .site-logo {
     max-width: 15rem;
     margin-top: 2rem; }
@@ -1530,6 +1537,9 @@ label.tree-toggle {
   .cta {
     padding: 1rem; } }
 @media (max-width: 400px) {
+  .hero-container {
+    max-height: 180px; }
+
   .cta {
     padding: 0.5rem; } }
 :root {
