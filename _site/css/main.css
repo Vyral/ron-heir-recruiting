@@ -1485,12 +1485,10 @@ label.tree-toggle {
   padding-top: 2rem; }
 
 .carousel-control.left {
-  background-image: none;
-  bottom: 250px; }
+  background-image: none; }
 
 .carousel-control.right {
-  background-image: none;
-  bottom: 250px; }
+  background-image: none; }
 
 .hero-container {
   width: 100%;
@@ -1512,10 +1510,7 @@ label.tree-toggle {
 
 @media (max-width: 1100px) {
   .site-title {
-    font-size: 5rem; }
-
-  .carousel-indicators {
-    bottom: 100px; } }
+    font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
     max-width: 20rem; }
@@ -1533,17 +1528,8 @@ label.tree-toggle {
   .site-title {
     font-size: 5rem; }
 
-  .carousel-control.left {
-    bottom: 300px; }
-
-  .carousel-control.right {
-    bottom: 300px; }
-
   .hero {
-    padding: 1.09rem 0; }
-
-  .carousel-indicators {
-    bottom: 180px; } }
+    padding: 1.9rem 0; } }
 @media (max-width: 600px) {
   .hero-container {
     max-height: 200px; }
@@ -1556,31 +1542,13 @@ label.tree-toggle {
     font-size: 3.5rem; }
 
   .cta {
-    padding: 1rem; }
-
-  .carousel-indicators {
-    bottom: 220px; }
-
-  .carousel-control.left {
-    bottom: 400px; }
-
-  .carousel-control.right {
-    bottom: 400px; } }
+    padding: 1rem; } }
 @media (max-width: 400px) {
   .hero-container {
     max-height: 140px; }
 
   .cta {
-    padding: 0.5rem; }
-
-  .carousel-indicators {
-    bottom: 275px; }
-
-  .carousel-control.left {
-    bottom: 450px; }
-
-  .carousel-control.right {
-    bottom: 450px; } }
+    padding: 0.5rem; } }
 :root {
   font-size: 10px; }
 
@@ -2463,7 +2431,6 @@ table tr, table td {
 .item {
   position: relative;
   height: 100%;
-  min-height: 430px;
   background: #fff;
   border-radius: 8px;
   display: flex;
