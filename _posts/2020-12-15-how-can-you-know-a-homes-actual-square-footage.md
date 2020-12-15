@@ -20,6 +20,8 @@ youtube_code: PdCZZ_94OmU
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why it’s important to know a home’s true square footage before it’s sold.</em></p>
+
 It’s always important to know the square footage of a home before it gets sold, and today I’ll tell you why.&nbsp;
 
 Earlier this year, my team and I faced a peculiar situation with a buyer client of ours: The livable square footage of the home they were buying was different than what the tax records showed, and they weren’t quite sure what to believe.&nbsp;
