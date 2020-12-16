@@ -15,16 +15,16 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-hier-square-footage-yt.jpg
-youtube_code: PdCZZ_94OmU
+youtube_code: NfhQ8Zqp3hY
 ---
 
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>Here’s why it’s important to know a home’s true square footage before it’s sold.</em></p>
 
-It’s always important to know the square footage of a home before it gets sold, and today I’ll tell you why.&nbsp;
+It’s always important to know the square footage of a home before it sells, and today I’ll tell you why.&nbsp;
 
-Earlier this year, my team and I faced a peculiar situation with a buyer client of ours: The livable square footage of the home they were buying was different than what the tax records showed, and they weren’t quite sure what to believe.&nbsp;
+Earlier this year, my team and I faced a peculiar situation with a buyer client of ours: The livable square footage of the home they were buying was different from what the tax records showed, and they weren’t quite sure what to believe.&nbsp;
 
 We told them **not to rely on the tax records for an accurate square footage measurement.** If you want to be absolutely sure, have the home measured by a professional, count the number of bedrooms and bathrooms, and check with the county or city office to verify whether the proper permits are on file.&nbsp;
 
