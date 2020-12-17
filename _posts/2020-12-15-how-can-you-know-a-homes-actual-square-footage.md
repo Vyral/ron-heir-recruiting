@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-hier-square-footage-yt.jpg
-youtube_code: NfhQ8Zqp3hY
+youtube_code: QgzOnfqpxtg
 ---
 
 {% include youtube.html %}
