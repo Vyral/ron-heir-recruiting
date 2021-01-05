@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Know a Home’s Actual Square Footage?
-date: 2020-12-15 20:07:17
+date: 2021-01-04 20:07:17
 tags:
 excerpt: >-
   Here’s why it’s important to know a home’s true square footage before it’s
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-hier-square-footage-yt.jpg
-youtube_code: QgzOnfqpxtg
+youtube_code: Wct8vFaRdp4
 ---
 
 {% include youtube.html %}
