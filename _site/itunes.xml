@@ -7,13 +7,13 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HIER Advantage - your professional Palmdale Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Ron Hier</managingEditor>
-    <lastBuildDate>2020-11-24 17:36:04 -0600</lastBuildDate>
+    <lastBuildDate>2021-01-11 14:46:17 -0600</lastBuildDate>
     <media:copyright>Ron Hier</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palmdale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>ronhier@thehieradvantage.com</itunes:email>
+      <itunes:email>ron.hier@thehieradvantage.com</itunes:email>
       <itunes:name>Ron Hier</itunes:name>
     </itunes:owner>
     <itunes:author>Ron Hier</itunes:author>
@@ -24,6 +24,46 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HIER Advantage - your professional Palmdale Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How Can You Know a Home’s Actual Square Footage?</title>
+        <link>http://localhost:4000/how-can-you-know-a-homes-actual-square-footage.html</link>
+        
+        <author>Ron Hier</author>
+        <pubDate>2021-01-04 14:07:17 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ron+Hier/How+Can+You+Know+a+Home%E2%80%99s+Actual+Square+Footage_.mp4</guid>
+        <description>
+
+Here’s why it’s important to know a home’s true square footage before it’s sold.
+
+It’s always important to know the square footage of a home before it sells, and today I’ll tell you why. 
+
+Earlier this year, my team and I faced a peculiar situation with a buyer client of ours: The livable square footage of the home they were buying was different from what the tax records showed, and they weren’t quite sure what to believe. 
+
+We told them not to rely on the tax records for an accurate square footage measurement. If you want to be absolutely sure, have the home measured by a professional, count the number of bedrooms and bathrooms, and check with the county or city office to verify whether the proper permits are on file. 
+
+“When I come across a discrepancy, it’s usually because an addition was made to the home.”
+
+Most of the time, tax records will show the accurate square footage and correct number of bedrooms and bathrooms—most of the time. When I come across a discrepancy, it’s usually because an addition was made to the home. If the owner pulled the proper permits and they’re on file, that additional square footage can be added to the actual square footage of the house. 
+
+Sometimes additions can look like they’ve been professionally done and built to code, but if the proper permits haven’t been pulled and signed off on, the owner can’t add that square footage to the home’s overall square footage. Also, if this information isn’t properly disclosed to the buyer, it could affect the sale and value of the home. 
+
+As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’d love to speak with you. 
+
+
+  
+
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ron+Hier/How+Can+You+Know+a+Home%E2%80%99s+Actual+Square+Footage_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ron+Hier/How+Can+You+Know+a+Home%E2%80%99s+Actual+Square+Footage_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s why it’s important to know a home’s true square footage before it’s sold.</itunes:subtitle>
+        <itunes:author>Ron Hier</itunes:author>
+        <itunes:summary>Here’s why it’s important to know a home’s true square footage before it’s sold.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palmdale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Why Should Sellers Never Be Present During a Showing?</title>
         <link>http://localhost:4000/why-should-sellers-never-be-present-during-a-showing.html</link>
