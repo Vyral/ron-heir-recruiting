@@ -68,7 +68,7 @@ permalink: /join-our-team/
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
 
-<form method="post" class="home-value cta-forms" action="/thankyou.html" id="join-our-team-form">
+<form method="post" class="home-value cta-forms" action="/thankyou" id="join-our-team-form">
 					<fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" />
 						<!--base32-c9gq6t9k68pkcd3jcwpp4rbkcmtk4-base32--><label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea>
 						<button class="g-recaptcha" data-sitekey="6LchF98ZAAAAADmFb1tVdYa_HB66rLT3pHML-nkH" data-callback='onJoinOurTeamSubmit'>Submit</button></fieldset>
