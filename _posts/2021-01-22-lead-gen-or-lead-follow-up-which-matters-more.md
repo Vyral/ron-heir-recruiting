@@ -19,7 +19,7 @@ youtube_code: AUFiIUGwetY
 
 <p style="text-align: center;"><em>Here’s my take on why lead follow-up is more important than lead generation.</em></p>
 
-Lead generation versus lead follow-up: Which one is more important? Well, much like the “nature versus nurture” debate in science, the word “versus” can be misleading here; the two concepts are highly interconnected, and a good agent needs them both to succeed. That said, I do actually believe one is inherently more important, and today I’ll explain why. I’ll also offer a simple strategy for consistently following up with everyone in your sphere of influence. Remember: Your sphere doesn’t just include the people you know personally, it also includes everyone else who’s just a mutual connection or two away from you.
+Lead generation versus lead follow-up: Which one is more important? Well, much like the “nature versus nurture” debate in science, the word “versus” can be misleading here; the two concepts are highly interconnected, and a good agent needs them both to succeed. That said, I do actually believe one is inherently more important, and today I’ll explain why. I’ll also offer a simple strategy for consistently following up with everyone in your sphere of influence. Remember: Your sphere doesn’t just include the people you know personally—it also includes everyone else who’s just a mutual connection or two away from you.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
