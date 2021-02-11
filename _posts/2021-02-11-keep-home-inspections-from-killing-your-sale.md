@@ -16,6 +16,8 @@ youtube_code: arve2JRa5sM
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how to keep home inspections from dooming your sale.</em></p>
+
 How do you prevent a home inspection from derailing your sale as a buyer’s agent?&nbsp;
 
 **While it’s important to have a home inspection during a home sale, you don’t want the home inspector to be a deal-killer.** There are good inspectors, and there are *others*. For example, I had a home inspector once write the following in their report: “We recommend the buyer ask the seller for a two-year roof certificate.”
