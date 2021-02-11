@@ -8,7 +8,7 @@ enclosure:
 pullquote: The bottom line is that every sale is different and has its own nuances.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/ron-hier-how-to-prevent-a-home-inspection-from-derailing-your-sale-yt.jpg
 youtube_code: arve2JRa5sM
@@ -16,7 +16,7 @@ youtube_code: arve2JRa5sM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how to keep home inspections from dooming your sale.</em></p>
+*Here’s how to keep home inspections from dooming your sale.*
 
 How do you prevent a home inspection from derailing your sale as a buyer’s agent?&nbsp;
 
