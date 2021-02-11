@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keep Home Inspections From Killing Your Sale
-date: 2021-02-11 19:33:57
+date: 2021-02-11 19:33:00
 tags:
 excerpt: Here’s how to keep home inspections from dooming your sale.
 enclosure:
