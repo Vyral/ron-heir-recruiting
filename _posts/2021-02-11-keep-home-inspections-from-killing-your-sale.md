@@ -16,7 +16,7 @@ youtube_code: arve2JRa5sM
 
 {% include youtube.html %}
 
-*Here’s how to keep home inspections from dooming your sale.*
+<p style="text-align: center;"><em>Here’s how to keep home inspections from dooming your sale.</em></p>
 
 How do you prevent a home inspection from derailing your sale as a buyer’s agent?&nbsp;
 
