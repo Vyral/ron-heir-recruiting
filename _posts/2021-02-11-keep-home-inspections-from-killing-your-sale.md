@@ -11,7 +11,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/ron-hier-how-to-prevent-a-home-inspection-from-derailing-your-sale-yt.jpg
-youtube_code: arve2JRa5sM
+youtube_code: ZYvr0k9WEFs
 ---
 
 {% include youtube.html %}
@@ -26,10 +26,10 @@ First of all, that’s not the inspector’s job. Their job is to inspect the ho
 
 {% include pullquote.html %}
 
-**To avoid this kind of thing, it’s best to address these items before they come up.** Meet with your buyer and let them know that the home inspection is to inform them about what they’re buying—what’s working, what’s not working, and the home’s overall condition. Also, let your buyer know that the inspection is not a laundry list of things for the seller to fix because technically they’re not obligated to fix anything that wasn’t already addressed in the RPA. I’m not saying don’t ask for anything. Do ask for repairs that need to be made and for any items concerning health and safety to be addressed.&nbsp;
+**To avoid this kind of thing, it’s best to address these items before they come up.** Meet with your buyer and let them know that the home inspection is to inform them about what they’re buying—what’s working, what’s not working, and the home’s overall condition. Also, let your buyer know that the inspection is not a laundry list of things for the seller to fix because, technically, they’re not obligated to fix anything that wasn’t already addressed in the RPA. I’m not saying don’t ask for anything. Do ask for repairs that need to be made and for any items concerning health and safety to be addressed.&nbsp;
 
 Additionally, be mindful of what kind of market you’re in. Is it a seller’s market or a buyer’s market? In a seller’s market, the seller has the upper hand. In a buyer’s market, the opposite is true. The bottom line is that every sale is different and has nuances.&nbsp;
 
-If you have questions about this or any real estate-related matter, feel free to reach out to me. If you’d like to schedule a one-on-one business-planning strategy, give my office a call today. I’d love to hear from you.
+If you have questions about this or any real estate-related matter, feel free to reach out to me. If you’d like to schedule a one-on-one business-planning strategy meeting, give my office a call today. I’d love to hear from you.
 
 {% include full-post-cta.html %}
