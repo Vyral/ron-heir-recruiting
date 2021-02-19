@@ -4,7 +4,7 @@ title: Keep Home Inspections From Killing Your Sale
 date: 2021-02-11 19:33:00
 tags:
 excerpt: Here’s how to keep home inspections from dooming your sale.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ron+Hier/Keep+Home+Inspections+From+Killing+Your+Sale.mp4
 pullquote: The bottom line is that every sale is different and has its own nuances.
 enclosure_type: video/mp4
 enclosure_time:
