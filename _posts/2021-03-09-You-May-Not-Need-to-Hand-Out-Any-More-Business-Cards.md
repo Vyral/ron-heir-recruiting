@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: hF1I9-a6X5k
+youtube_code: wi6ymH1FcYk
 ---
 {% include youtube.html %}
 
@@ -20,7 +20,7 @@ youtube_code: hF1I9-a6X5k
 
 We’ve all had this happen to us, haven't we? As agents, we meet people all the time and hand out business cards constantly. The thing is, if the person you meet doesn’t have a business card—like a homebuyer or home seller—**they may give you a bogus phone number,** if they give you one at all. 
 
-What can you do to prevent this? If you’re talking with a buyer or seller and they ask for your business card, say, “Oh, I’m sorry, I left them at the office.” (Or somewhere where it’s not convenient to go get them). Then say, “How about I text it to you?”, pull out your phone, ask for their number, and text them your business card or contact information. 
+What can you do to prevent this? If you’re talking with a buyer or seller and they ask for your business card, say, “Oh, I’m sorry, I left them at the office.” (Or somewhere where it’s not convenient to go get them). Then say, “How about I text it to you?”, pull out your phone, ask for their number and text them your business card or contact information. 
 
 {% include pullquote.html %}
 
