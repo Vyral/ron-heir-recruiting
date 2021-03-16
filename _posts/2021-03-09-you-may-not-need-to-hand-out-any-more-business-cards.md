@@ -16,7 +16,7 @@ youtube_code: jM1aAnsxNQs
 ---
 {% include youtube.html %}
 
-*Here’s why you may not want to ever hand out your business cards again.*
+<p style="text-align: center;"><em>Here’s why you may not want to ever hand out your business cards again.</em></p>
 
 *“Whoops, I left my business card in the car\!”*
 
