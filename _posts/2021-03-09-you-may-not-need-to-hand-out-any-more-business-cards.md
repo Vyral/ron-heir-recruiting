@@ -4,7 +4,7 @@ title: You May Not Need to Hand Out Any More Business Cards
 date: 2021-03-09 00:00:00
 tags:
 excerpt: Here’s why you may not want to ever hand out your business cards again.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ron+Hier/You+May+Not+Need+to+Hand+Out+Any+More+Business+Cards.mp4
 pullquote: >-
   Motivated and interested people are more likely to give you their correct
   information.
