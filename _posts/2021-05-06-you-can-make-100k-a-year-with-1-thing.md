@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-hier-make-100000-a-year-consistently-yt.jpg
-youtube_code: NBljwFZ_wkc
+youtube_code: '-Izv9Kg72Yc'
 ---
 {% include youtube.html %}
 
