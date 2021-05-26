@@ -15,7 +15,7 @@ youtube_code: _jT3o6TiNdA
 ---
 {% include youtube.html %}
 
-*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; By cultivating your farm, you’ll earn much more annually.*
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;By cultivating your farm, you’ll earn much more annually.*
 
 In a previous guide, I discussed how you could add $100,000 to your annual income by using your sphere of influence. However, this isn’t the only way that you can boost your earnings. Today we’ll be talking about another strategy that could tack on an additional $100,000 to your bank account each year. **It all revolves around cultivating your “farm.”**
 
