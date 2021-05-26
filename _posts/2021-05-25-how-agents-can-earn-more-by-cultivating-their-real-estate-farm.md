@@ -15,6 +15,8 @@ youtube_code: _jT3o6TiNdA
 ---
 {% include youtube.html %}
 
+*By cultivating your farm, you’ll earn much more annually.*
+
 In a previous guide, I discussed how you could add $100,000 to your annual income by using your sphere of influence. However, this isn’t the only way that you can boost your earnings. Today we’ll be talking about another strategy that could tack on an additional $100,000 to your bank account each year. **It all revolves around cultivating your “farm.”**
 
 Here’s how the farm metaphor works: When a farmer wants to grow a crop, they follow a formula. They clear the land, till the soil, plant the seeds, fertilize the soil, water it, keep weeds out, harvest the crops, and finally get paid. In real estate, we do the same thing when we want to make something grow: We follow a formula.
