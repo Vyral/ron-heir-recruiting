@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-hier-seller-rent-back-yt.jpg
-youtube_code: _uU07PG_2hU
+youtube_code: q4Pqx5B-rcc
 ---
 {% include youtube.html %}
 
@@ -33,7 +33,7 @@ First, find out why the seller wants a rent-back. This will help you determine i
 
 1\. It may take the seller a long time to either close on the home they’re buying or find a home at all. If they don’t find a home within the set period, you may have to evict them, which can get costly.
 
-2\. If the rent-back is longer than 60 days, you may be in violation of your lender’s mortgage rules. After 60 days, your property could be considered an investment property. If you do decide to do a rent-back, make sure the seller has renter’s insurance, submits a security deposit, and include a clause that charges them per diem if the transaction doesn’t close when they said it was going to. That will protect you from having to spend too much money on your mortgage.
+2\. If the rent-back is longer than 60 days, you may violate your lender’s mortgage rules. After 60 days, your property could be considered an investment property. If you do decide to do a rent-back, make sure the seller has renter’s insurance, submits a security deposit, and include a clause that charges them per diem if the transaction doesn’t close when they said it was going to. That will protect you from having to spend too much money on your mortgage.
 
 Everyone’s situation is different. Many times, seller rent-backs are fine, but just remember, the longer the period between when escrow closes and when the seller finds and closes on their home, the likelier it is that other issues will come up.
 
