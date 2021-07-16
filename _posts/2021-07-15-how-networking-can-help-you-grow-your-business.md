@@ -7,8 +7,8 @@ tags:
 excerpt: Here’s how you can grow your network and start getting extra sales.
 enclosure:
 pullquote: >-
-  Be part of the 10% and create relationships with the leaders, and you’ll be
-  more likely to find new clients. 
+  Be part of the 10%, create relationships with the leaders, and you’ll be more
+  likely to find new clients. 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
