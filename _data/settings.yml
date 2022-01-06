@@ -1,54 +1,64 @@
 audit_header: false
-title: "Palmdale's Best Real Estate Training"
-description: Ron Hier, a top Real Estate Agent in Palmdale, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Palmdale's Best Real Estate Training
+description: >-
+  Ron Hier, a top Real Estate Agent in Palmdale, shares his own internal real
+  estate agent training for free. His Real Estate Training, Tips and Advice will
+  help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: #
+    url:
   - title: Free Strategy Call
     url: /contact/
   - title: Real Estate School
     url: https://www.AVRESchool.com
-    
 client:
   name: Ron Hier
   title:
   license_number:
-  about_markdown: |
-    I was born and raised right here in the Antelope Valley. My mom and grandfather were as well. My great grandfather (and his brother) homesteaded out here in the 1880s. So as you can see, I have some deep roots in the AV.
+  about_markdown: >-
+    I was born and raised right here in the Antelope Valley. My mom and
+    grandfather were as well. My great grandfather (and his brother) homesteaded
+    out here in the 1880s. So as you can see, I have some deep roots in the AV.
 
-    I started in the real estate business in 1995  as a sales associate at Coldwell Banker. I became a top producer, and in 2003, I joined Keller Williams Realty and became a top producer there. In 2013, I got my brokers license and ventured out on my own, taking with me everything I learned from my previous brokerages (and all the coaching I had along the way).
 
-    I worked from my home office until early 2018. That’s when I moved to my current location. Along the way I hired (and coached) my son-in-law Josh Vigil and now he is a top producer, too. I also met Jackie Mendoza, a very talented woman who is now our office manager.
+    I started in the real estate business in 1995 as a sales associate at
+    Coldwell Banker. I became a top producer, and in 2003, I joined Keller
+    Williams Realty and became a top producer there. In 2013, I got my brokers
+    license and ventured out on my own, taking with me everything I learned from
+    my previous brokerages (and all the coaching I had along the way).
 
-    Currently, I am on the Lancaster Chamber of Commerce Board of Directors, the Antelope Valley Community Concerts Board of Directors, a past Grand Knight (and a current member) of the Knights of Columbus, a member and president of the AVBNA networking group, and a member of the Antelope Valley Advisory Group.
-  market: Palmdale
+
+    I worked from my home office until early 2018. That’s when I moved to my
+    current location. Along the way I hired (and coached) my son-in-law Josh
+    Vigil and now he is a top producer, too.
+
+
+    Currently, I am a member of the Antelope Valley Chamber of Commerce, the
+    Antelope Valley Community Concerts Board of Directors, a past Grand Knight
+    (and a current member) of the Knights of Columbus, a member and president of
+    the AVBNA networking group, and a member of the Antelope Valley Advisory
+    Group.
+  market: Greater Antelope Valley, Santa Clarita Valley, San Fernando Valley
   brand: The HIER Advantage
   brokerage:
   address: 1008 W. Ave. M-14 Unit A Palmdale, CA 93551
-  phone: 661-406-1562
-  phone_type:
+  phone: 661-400-0705
+  phone_type: Office Cell
   phone2:
   phone2_type:
-  email: ron.hier@thehieradvantage.com
+  email: thehieradvantage@gmail.com
   url: http://www.thehieradvantage.com
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Let's talk about how The HIER Advantage can take your business to new heights."
-    CTA_link_text: "Free Strategy Session"
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: >-
+      Let's talk about how The HIER Advantage can take your business to new
+      heights.
+    CTA_link_text: Free Strategy Session
     CTA_url: /contact/
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Join Our Team"
-#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
-#     CTA_link_text2: "Career Info"
-#     CTA_url2: /
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -60,7 +70,6 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: http://eyegoop.com
-
 socials:
   review_sm_icons: false
   facebook_url:
@@ -74,22 +83,31 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Palmdale Real Estate Podcast with Ron Hier'
+  title: Palmdale Real Estate Podcast with Ron Hier
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Palmdale Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HIER Advantage - your professional Palmdale Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Palmdale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Ron Hier'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Palmdale
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from The HIER Advantage - your professional
+    Palmdale Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Palmdale, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Ron Hier
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Palmdale Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -98,23 +116,20 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: rgba(0, 0, 0, 0)
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
